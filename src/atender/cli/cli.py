@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-atender command line tool
+atender command line tools
 """
 from __future__ import (absolute_import, division, print_function,
                         unicode_literals)
