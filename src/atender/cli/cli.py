@@ -303,3 +303,4 @@ def resume(cli_config, **options):
     """Resumes processing of queues, that were suspended with `atender suspend`"""
     connection_resume(cli_config.connection)
     quo.echo("Resuming workers.")
+
